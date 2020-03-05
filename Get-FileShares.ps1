@@ -60,13 +60,6 @@ function Log
   Sample output will look like:
     Found 520 files in folder D:\Sandbox - and will have the listed foreground colors
 
- .Link
-  https://superwidgets.wordpress.com/category/powershell/
-
- .Notes
-  Function by Sam Boutros
-  v1.0 - 08/06/2014
-  v1.1 - 12/01/2014 - added multi-color display in the same line
 
 #>
 	
